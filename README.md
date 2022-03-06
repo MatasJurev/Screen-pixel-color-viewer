@@ -1,4 +1,4 @@
-# Screen pixels colors viewer
+# Screen pixel color viewer
 
 Quick and simple tool to find out what color a certain screen pixel is.
 
