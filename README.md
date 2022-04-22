@@ -1,4 +1,4 @@
-# Screen pixel color viewer
+# Screen pixel color viewer using pyautogui
 
 Quick and simple tool to find out what color a certain screen pixel is.
 
